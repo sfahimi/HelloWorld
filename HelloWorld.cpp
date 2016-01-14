@@ -4,6 +4,6 @@ using namespace std;
 
 int main(){
   
-   cout << "FightOn!" << endl;
+   cout << "Fight On!" << endl;
    
 }
